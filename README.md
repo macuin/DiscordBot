@@ -32,7 +32,5 @@ For more advanced commands check the documentation linked above.
 
 - Checking Ping
 
-- Clearing server 
-
 - Echoing message
 
