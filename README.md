@@ -1,8 +1,9 @@
 # Discord Bot
-Basic discord bot developed to be executed on Jupyter Notebook and Google Collab. 
+Basic discord bot developed to be executed on Jupyter Notebook and Google Collab to get you started with running tests. 
 
 **NOTE** 
-Although Discord Bot can be codded in python and run on a terminal easily. Runnning the bot on Jupyter notebook (or Google collab) requires an extra line. 
+Although Discord Bot can be coded in python and executed on a terminal easily. Executing the bot on Jupyter notebook (or Google Collab) requires the following extra line:
+
 ```
 import nest_asyncio 
 nest_asyncio.apply()
@@ -12,6 +13,18 @@ Which can be installed with `!pip install nest_asyncio`.
 ### Perquisites 
 - discord.py 
 - nest_asyncio
+- python3 and above. 
 
+## Basics
+- The server prefix can be set by :
+```
+client = commands.Bot(command_prefix = "$")
+```
 
+- The commands can be initialized by: 
+```
+async def [command name]() :
+```
+
+For more advanced commands check the documentation linked above. 
 
