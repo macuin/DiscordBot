@@ -28,3 +28,11 @@ async def [command name]() :
 
 For more advanced commands check the documentation linked above. 
 
+### Functionality 
+
+- Checking Ping
+
+- Clearing server 
+
+- Echoing message
+
