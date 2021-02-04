@@ -11,9 +11,9 @@ nest_asyncio.apply()
 Which can be installed with `!pip install nest_asyncio`.   
 
 ### Perquisites 
-- discord.py 
+- [discord.py](https://discordpy.readthedocs.io/en/latest/) 
 - nest_asyncio
-- python3 and above. 
+- [python3](https://www.python.org) and above. 
 
 ## Basics
 - The server prefix can be set by :
