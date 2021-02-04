@@ -31,6 +31,6 @@ For more advanced commands check the documentation linked above.
 ### Functionality 
 
 - Checking Ping
-
+![Checking Ping](https://github.com/macuin/DiscordBot/blob/main/screenshots/ping.png)
 - Echoing message
-
+![Echoing message](https://github.com/macuin/DiscordBot/blob/main/screenshots/echo.png)
